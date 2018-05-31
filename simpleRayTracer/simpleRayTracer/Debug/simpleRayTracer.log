@@ -1,0 +1,15 @@
+﻿  simpleRayTracer.cpp
+e:\computer_graphics\raytracing\raytracing\simpleraytracer\simpleraytracer\simpleraytracer.cpp(20): warning C4005: “INFINITY”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_math.h(89): note: 参见“INFINITY”的前一个定义
+e:\computer_graphics\raytracing\raytracing\simpleraytracer\simpleraytracer\simpleraytracer.cpp(130): warning C4305: “初始化”: 从“double”到“float”截断
+e:\computer_graphics\raytracing\raytracing\simpleraytracer\simpleraytracer\simpleraytracer.cpp(136): warning C4305: “参数”: 从“double”到“const float”截断
+e:\computer_graphics\raytracing\raytracing\simpleraytracer\simpleraytracer\simpleraytracer.cpp(145): warning C4305: “初始化”: 从“double”到“float”截断
+e:\computer_graphics\raytracing\raytracing\simpleraytracer\simpleraytracer\simpleraytracer.cpp(189): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\computer_graphics\raytracing\raytracing\simpleraytracer\simpleraytracer\simpleraytracer.cpp(193): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\computer_graphics\raytracing\raytracing\simpleraytracer\simpleraytracer\simpleraytracer.cpp(194): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\computer_graphics\raytracing\raytracing\simpleraytracer\simpleraytracer\simpleraytracer.cpp(217): warning C4305: “参数”: 从“double”到“float”截断
+e:\computer_graphics\raytracing\raytracing\simpleraytracer\simpleraytracer\simpleraytracer.cpp(218): warning C4305: “参数”: 从“double”到“float”截断
+e:\computer_graphics\raytracing\raytracing\simpleraytracer\simpleraytracer\simpleraytracer.cpp(219): warning C4305: “参数”: 从“double”到“float”截断
+e:\computer_graphics\raytracing\raytracing\simpleraytracer\simpleraytracer\simpleraytracer.cpp(220): warning C4305: “参数”: 从“double”到“float”截断
+e:\computer_graphics\raytracing\raytracing\simpleraytracer\simpleraytracer\simpleraytracer.cpp(221): warning C4305: “参数”: 从“double”到“float”截断
+  simpleRayTracer.vcxproj -> E:\Computer_Graphics\rayTracing\RayTracing\simpleRayTracer\Debug\simpleRayTracer.exe
